@@ -1,11 +1,20 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 
   <h2 align="center">
-       Software Engineer | React Native
+       Software Engineer | React Native 
   </h2>
+  
   <p align="center"> 
-    I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. 2021 - Present: PUCPR - Software Engineering    
+    I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. 2021 - Present: PUCPR - Software Engineering   
+
+   <div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/chagas42/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+   />
+</a>
+ </div>
   </p>
 
 <hr>
@@ -25,11 +34,7 @@
 ![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-<a target="_blank" href="https://www.linkedin.com/in/chagas42/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-   />
-</a>
+
 
 
     
