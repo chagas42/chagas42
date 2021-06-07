@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. 2021 - Present: PUCPR - Software Engineering
+
 <!--
 **juniorc42/juniorc42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
