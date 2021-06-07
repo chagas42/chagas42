@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 
-  <h4 align="center">
+  <h2 align="center">
        Software Engineer - React Native
-  </h4>
+  </h2>
   <p align="center"> 
     I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. 2021 - Present: PUCPR - Software Engineering    
   </p>
 
 <hr>
 <div align="center">
-    ### Minhas linguagens e tecnologias:
+  
+  <h4>Minhas linguagens e tecnologias:</h4>
 </div>
 <br>
 
