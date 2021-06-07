@@ -2,7 +2,7 @@
 
 
   <h2 align="center">
-       Software Engineer - React Native
+       Software Engineer | React Native
   </h2>
   <p align="center"> 
     I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. 2021 - Present: PUCPR - Software Engineering    
