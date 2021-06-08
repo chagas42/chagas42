@@ -6,7 +6,7 @@
   </h2>
   
   <p align="center"> 
-    I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. 2021 - Present: PUCPR - Software Engineering   
+    I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. <br/> 2021 - Present: PUCPR - Software Engineering   
 
    <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/chagas42/">
@@ -31,9 +31,7 @@
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 
 
