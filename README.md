@@ -1,26 +1,25 @@
 <!-- ### Hi there 👋 -->
 
 
-  <h2 align="center">
+  <h4 align="left">
        Software Engineer | React Native 
-  </h2>
+  </h4>
   
-  <p align="center"> 
+  <p align="left"> 
     I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. <br/> 2021 - Present: PUCPR - Software Engineering   
+  </p>
 
-   <div align="center">
+<hr>
+ <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/chagas42/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
    />
 </a>
  </div>
-  </p>
-
-<hr>
 <div align="center">
   
-  <h4>Minhas linguagens e tecnologias:</h4>
+  <h3>Minhas linguagens e tecnologias:</h3>
 </div>
 <br>
 
