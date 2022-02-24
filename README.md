@@ -6,7 +6,7 @@
   </h4>
   
   <p align="left"> 
-    I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. <br/> 2021 - Present: PUCPR - Software Engineering   
+    I'm a Developer and love Rubik's Cube, JS, React-Native and Brazilian music. <br/> 2020 - Present: PUCPR - Software Engineering   
   </p>
 
 <hr>
