@@ -22,22 +22,3 @@ I'm a Developer and love Rubik's Cube, NodeJS, Mobile Development and Brazilian 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/chagas42" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chagas42" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/chagas42"><img src="https://github-readme-stats.vercel.app/api?username=chagas42&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chagas42's GitHub stats" /></a>
-<a href="http://www.github.com/chagas42"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chagas42&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="50%">
- <a href="https://github.com/chagas42/pokeFinder" align="left">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chagas42&repo=pokeFinder&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
- </a>
- <a href="https://github.com/chagas42/rnCrud" align="right">
-   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chagas42&repo=rnCrud&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
- </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
