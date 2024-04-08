@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 -------------------
 
-I'm a Developer and love Rubik's Cube, NodeJS, Mobile Development and Brazilian music. 2020 - Present: PUCPR - Software Engineering
+I'm a Developer and love Rubik's Cube, JS, Mobile Development and Brazilian music. 2020 - Present: PUCPR - Software Engineering
 
 *   🌍  I'm based in Curitiba - PR | BR
 *   ✉️  You can contact me at [jjuniorchagas15@gmail.com](mailto:jjuniorchagas15@gmail.com)
