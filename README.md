@@ -7,7 +7,7 @@ Frontend Developer
 I'm a Developer and love Rubik's Cube, JS, Mobile Development and Brazilian music. 2020 - Present: PUCPR - Software Engineering
 
 *   🌍  I'm based in Curitiba - PR | BR
-*   ✉️  You can contact me at [jjuniorchagas15@gmail.com](mailto:celso.chagas.dev@gmail.com)
+*   ✉️  You can contact me at [celso.chagas.dev@gmail.com](mailto:celso.chagas.dev@gmail.com)
 *   🚀  I'm currently working on [ZRP](http://www.zrp.com.br/en/)
 *   🧠  I'm learning SwiftUI
 *   🤝  I'm open to collaborating on Mobile apps and web applications.
