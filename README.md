@@ -7,7 +7,7 @@ Senior Software Engineer
 I'm a Developer and love Rubik's Cube, JS, Mobile Development and Brazilian music. 2024 - Present: UP - Computer Science
 
 *  You can contact me at [celso.chagas.dev@gmail.com](mailto:celso.chagas.dev@gmail.com)
-*  I'm currently working on [Chaves na mão](http://www.chavesnamao.com.br)
+*  I'm currently working on [Salvy](http://www.salvy.com.br)
 *  I'm currently learning more about WebAssembly
 *  I'm open to collaborating on Mobile apps and web applications.
 *  In secret, sometimes I assemble magic cubes in less than 20 seconds
